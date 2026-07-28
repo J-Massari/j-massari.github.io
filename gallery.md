@@ -14,17 +14,15 @@ A visual overview of technical deployments, structural rigging operations, and i
 
 | High-Risk Structural Rigging | Tactical Radio & Wide-band Links |
 | :---: | :---: |
-| <!-- <img src="images/rigging.jpg" width="350"><br> --> **Tower Rigging & Antenna Deployment**<br>*Managing structural tower installations and complex antenna array deployments under strict Work Health & Safety (WHS) protocols.* 
-| <!-- <img src="images/tactical_radio.jpg" width="350"><br> --> **Tactical Field Communications**<br>*Deployment of line-of-sight wide-band bearer networks and tactical digital radio suites.*
+| <!-- <img src="images/rigging.jpg" width="350"><br> --> **Tower Rigging & Antenna Deployment**<br>*Managing structural tower installations and complex antenna array deployments under strict Work Health & Safety (WHS) protocols.* | <!-- <img src="images/tactical_radio.jpg" width="350"><br> --> **Tactical Field Communications**<br>*Deployment of line-of-sight wide-band bearer networks and tactical digital radio suites.* |
 
 ---
 
-## Instructional roles
+## Instructional Roles
 
 | Bearer Systems | Field Communication |
 | :---: | :---: |
-| <!-- <img src="images/rigging.jpg" width="350"><br> --> **Cell Bearer Systems**<br>*Instruction for the deployment of cell repeaters used in adverse terrain and domestic assistance operations (flood, bush fire and other domestic assistance roles)* 
-| <!-- <img src="images/tactical_radio.jpg" width="350"><br> --> **Field Communications**<br>*Instruction of various in-service communication systems and suites*
+| <!-- <img src="images/rigging.jpg" width="350"><br> --> **Cell Bearer Systems**<br>*Instruction for the deployment of cell repeaters used in adverse terrain and domestic assistance operations (flood, bushfire, and other domestic assistance roles).* | <!-- <img src="images/tactical_radio.jpg" width="350"><br> --> **Field Communications**<br>*Instruction of various in-service communication systems and suites.* |
 
 ---
 
@@ -32,8 +30,7 @@ A visual overview of technical deployments, structural rigging operations, and i
 
 | COMSEC & High-Assurance Integration | Network Infrastructure |
 | :---: | :---: |
-| <!-- <img src="images/comsec_hardware.jpg" width="350"><br> --> **High-Assurance Systems Verification**<br>*Operational testing, configuration, and cryptographic management of high-assurance hardware.* 
-| <!-- <img src="images/homelab.jpg" width="350"><br> --> **Deployed network infrastructure**<br>*deployed infrastructure used in conjunction with micro-servers, soft-defined networking (SDN) controllers, and segmented VLAN routing.* 
+| <!-- <img src="images/comsec_hardware.jpg" width="350"><br> --> **High-Assurance Systems Verification**<br>*Operational testing, configuration, and cryptographic management of high-assurance hardware.* | <!-- <img src="images/homelab.jpg" width="350"><br> --> **Deployed Network Infrastructure**<br>*Deployed infrastructure used in conjunction with micro-servers, software-defined networking (SDN) controllers, and segmented VLAN routing.* |
 
 ---
 
