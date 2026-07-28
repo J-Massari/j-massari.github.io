@@ -62,4 +62,6 @@ Now operating as an independent Security Consultant, I strive to assist organiza
 * **Defence COMSEC Accounting & Custodianship** — Australian Defence Force (2022)
 * **High-Assurance Cryptographic Operations:** TACLANE KG-175D, Mini-CATAPAN, SKL AN/PYQ-10, KIK-30 RASKL, General Cryptographic Access
 * **National High Risk Work Licences:** Advanced Rigging, Intermediate Rigging, Basic Rigging, Dogging (2023)
+* **Open Cabling Registration** Issued by TITAB and Endorsed for: Structured, Optical Fibre, Coaxial, Underground, Aerial, Testing, Broad Band
 * **Risk Management:** DFSB Risk Management Foundation, DFSB Immediate Risk Management (2024)
+* **Other Qualifications** Work Safely at Heights (RIIWHS204D), Elevated Work Platform Under 11m (RIIHAN301D), CTI Scissor Lift (SL010688)
