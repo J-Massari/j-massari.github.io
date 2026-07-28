@@ -30,7 +30,7 @@ A visual overview of technical deployments, structural rigging operations, and i
 
 ## Hardware & Network Architecture
 
-| COMSEC & High-Assurance Integration | Isolated Network Prototyping |
+| COMSEC & High-Assurance Integration | Network Infrastructure |
 | :---: | :---: |
 | <!-- <img src="images/comsec_hardware.jpg" width="350"><br> --> **High-Assurance Systems Verification**<br>*Operational testing, configuration, and cryptographic management of high-assurance hardware.* 
 | <!-- <img src="images/homelab.jpg" width="350"><br> --> **Deployed network infrastructure**<br>*deployed infrastructure used in conjunction with micro-servers, soft-defined networking (SDN) controllers, and segmented VLAN routing.* 
