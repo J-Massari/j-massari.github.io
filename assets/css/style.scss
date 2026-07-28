@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Executive Color Palette Override */
+
+/* 1. Header Banner Gradient (Sleek Dark Navy / Charcoal) */
+.page-header {
+  background-color: #1b2a38;
+  background-image: linear-gradient(120deg, #131e29, #2c3e50);
+}
+
+/* 2. Main Headings Color (Muted Dark Slate instead of bright green) */
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4 {
+  color: #1c2d3d;
+}
+
+/* 3. Link Colors (Professional Steel Blue instead of bright green/blue) */
+.main-content a {
+  color: #2b6cb0;
+}
+
+.main-content a:hover {
+  color: #1a4971;
+  text-decoration: underline;
+}
+
+/* 4. Section Jump Links Bar Background & Formatting */
+.main-content hr {
+  background-color: #cbd5e0;
+}
