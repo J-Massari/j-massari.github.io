@@ -4,7 +4,7 @@
 
 ---
 
-A visual overview of technical deployments, structural rigging operations, and isolated network prototyping projects undertaken throughout my career[cite: 2, 3].
+A visual overview of technical deployments, structural rigging operations, and isolated network prototyping projects undertaken throughout my career.
 
 *Note: All images have been reviewed and sanitised to ensure strict compliance with operational security (OPSEC) guidelines.*
 
