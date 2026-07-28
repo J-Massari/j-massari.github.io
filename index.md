@@ -1,7 +1,11 @@
 # Jordan Massari
 **Communications Security (COMSEC) & Network Engineering Specialist and Consultant**
 
-[Email Me](mailto:jordan.massari@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/jordanneteng/) | [Download Full Resume (PDF)](Resume.pdf)
+<!-- PROFILE PHOTO PLACEHOLDER (Uncomment when photo is ready and uploaded to images/profile.jpg)
+<img src="images/profile.jpg" alt="Jordan Massari" width="160" style="border-radius: 50%; float: right; margin: 0 0 15px 15px;">
+-->
+
+[Email Me](mailto:jordan.massari@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/jordanneteng/) | [Download Full Resume (PDF)](Resume.pdf) | [Project Gallery](gallery)
 
 ---
 
