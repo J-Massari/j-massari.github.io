@@ -1,5 +1,5 @@
 # Jordan Massari
-**Communications Security (COMSEC) & Cyber Operations Specialist**
+**Communications Security (COMSEC) & Network Engineering SME and Consultant**
 
 [Email Me](mailto:jordan.massari@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/jordanneteng/) | [Download Full Resume (PDF)](Resume.pdf) | [Project Gallery](gallery)
 
